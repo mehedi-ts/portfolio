@@ -105,8 +105,6 @@ body {
   align-items: center;
   justify-content: space-between;
 }
-.cv {
-}
 .cv a:hover {
   background-color: transparent;
   border: 1.5 px solid #2ce961;
